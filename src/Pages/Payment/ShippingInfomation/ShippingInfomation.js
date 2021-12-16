@@ -1,13 +1,20 @@
 import React from 'react';
+import { Link, NavLink } from 'react-router-dom';
 import './ShippingInformation.css'
 
 const ShippingInfomation = () => {
          return (
                   <div className="container">
                      <div className="me-auto my-4">
-                              <button className="regular-btn">LOG IN</button>
-                              <button className="regular-btn">SIGN UP</button>
-                     </div>
+                        <NavLink to="/login">
+                        <button className="regular-btn">LOGIN</button>
+                        </NavLink>
+                        <NavLink to="/signup">
+                        <button className="regular-btn">
+                        SIGN UP
+                        </button>
+                        </NavLink>
+                      </div>
                      <div>
                               <h5 className="ms-3 my-4">Shipping Information</h5>
                              <div className="d-flex">
