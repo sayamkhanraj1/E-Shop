@@ -1,0 +1,57 @@
+[
+         {
+           "key": "1",
+           "methodName": "payment getway",
+           "image": "https://i.ibb.co/kyyQg8x/paypal.png"
+         },
+         {
+          "key": "2",
+           "methodName": "payment getway",
+           "image": "https://i.ibb.co/fNFysmx/visa-PNG5.png"
+         },
+         {
+          "key": "3",
+           "methodName": "payment getway",
+           "image": "https://i.ibb.co/7zXqS44/1280px-Master-Card-Logo-svg.png"
+         },
+         {
+          "key": "4",
+           "methodName": "payment getway",
+           "image": "https://i.ibb.co/p2DyH4C/mastero.png"
+         },
+         {
+          "key": "5",
+           "methodName": "payment getway",
+           "image": "https://i.ibb.co/2hp9f5C/discover.png"
+         },
+         {
+          "key": "6",
+           "methodName": "payment getway",
+           "image": "https://i.ibb.co/LR4JV1W/download.png"
+         },
+         {
+          "key": "7",
+           "methodName": "delivery",
+           "image": "https://i.ibb.co/YX1GzPr/inpost.png",
+           "cost": "20"
+         },
+         {
+          "key": "8",
+           "methodName": "delivery",
+           "image": "https://i.ibb.co/Hzv8vkc/DHL.png",
+           "cost": "12"
+         },
+         {
+          "key": "9",
+           "methodName": "delivery",
+           "image": "https://i.ibb.co/jDCTqYL/dpd.jpg",
+           "cost": "15"
+         },
+         {
+          "key": "10",
+           "methodName": "delivery",
+           "image": "https://i.ibb.co/m69gnFQ/dedex.jpg",
+           "cost": "10"
+         }
+       ]
+       
