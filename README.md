@@ -1,12 +1,12 @@
 # A payment getway single page application
 
-Live Site Link [E-Shop](https://e-shop-19883.web.app/).
+Live Site Link [E-Shop](https://e-shop-assignment.netlify.app/).
 
 ## Instructions(how to run the code)
 
 1. Run the command `npm install` in the root directory of the project.
 2. After installing all the dependencies, Run the command `npm start` in the root directory of the project.
-3. Open the browser and navigate to the link https://e-shop-19883.web.app/
+3. Open the browser and navigate to the link https://e-shop-assignment.netlify.app/
 
 ## Used Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
