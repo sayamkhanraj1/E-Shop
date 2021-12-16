@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import './ShippingInformation.css'
 
 const ShippingInfomation = () => {
@@ -9,7 +9,7 @@ const ShippingInfomation = () => {
                         <NavLink to="/login">
                         <button className="regular-btn">LOGIN</button>
                         </NavLink>
-                        <NavLink to="/signup">
+                        <NavLink to="/singup">
                         <button className="regular-btn">
                         SIGN UP
                         </button>

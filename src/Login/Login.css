@@ -4,7 +4,7 @@
 .login-form {
          padding:30px 70px;
          border-radius: 20px;
-         box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+         box-shadow: 0 0 30px rgba(29, 28, 28, 0.5);
          color: black;
          border-radius: 12px;
 }
@@ -17,4 +17,5 @@
          color: #fff;
          border: 0;
          border-radius: 5px;
+         
 }

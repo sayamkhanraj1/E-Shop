@@ -81,7 +81,7 @@ const Login = () => {
         }
         const location = useLocation();
         const history = useHistory();
-        const redirect_uri = location.state?.from || '/home';
+        const redirect_uri = location.state?.from || '/';
       
         
 
@@ -105,7 +105,7 @@ const Login = () => {
                         </div>
                         <div className="form-check">
                         <input onChange={toggleLogIn} className="me-2" type="checkbox" id="gridCheck1"/>
-                        <label className="form-check-label mt-3 fw-bold text-white" htmlFor="gridCheck1">Already Registered ?</label>
+                        <label className="form-check-label mt-3 fw-bold text-dark" htmlFor="gridCheck1">Already Registered ?</label>
                         </div>
                         <div className="row mb-3 text-danger">{error}</div>
                        <div className ="d-flex justify-content-center align-items-center">
